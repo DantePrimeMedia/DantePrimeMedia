@@ -15,6 +15,11 @@ An Unreal Engine 5.4 collection featuring **color-synchronized projectile impact
 ### [C++ Survival & Building Prototype](https://github.com/DantePrimeMedia/Unreal-CPP-Survival-Prototype)
 An Unreal Engine 5.7 prototype with **health, hunger, stamina, resource gathering, inventory tracking, building placement, and objective progression**. Includes C++ source, screenshots, and gameplay footage.
 
+## Additional 3D modeling work
+
+### [Hospital Bed — Autodesk Maya Modeling & Animation](https://github.com/DantePrimeMedia/Maya-Hospital-Bed-Model)
+A supplementary 3D modeling project showing **original hand-drawn concept sketches**, high- and low-poly Maya scenes, mechanical bed details, screenshots, and animation demonstrations.
+
 ## Technical focus
 
 - **Gameplay programming:** C++, Unreal Engine gameplay framework, Blueprints
